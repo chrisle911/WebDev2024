@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Lê Hoàng Long
+* ID: Bi11-155
+* Group ID: Group 3
+* Project Name: Fitness Tracker Dashboard
